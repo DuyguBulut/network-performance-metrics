@@ -4,8 +4,12 @@ By reading NS2 file, calculating some network performance network metrics using 
 
 used these metrics,
 
-throughout
-jitter
-end to end delay
-packet delivery fraction
-packet loss
+1. throughout
+
+2. jitter
+
+3. end to end delay
+
+4. packet delivery fraction
+
+5. packet loss
